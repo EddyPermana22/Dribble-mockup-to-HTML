@@ -1,0 +1,53 @@
+body {
+    
+    background: linear-gradient(to right, #3E393F 0%, #0C0C0F 100%);
+}
+
+header {
+    margin-bottom: 35px;
+}
+
+#navbarResponsive > ul li{
+    padding: 0 15px;
+}
+
+#navbarResponsive > ul {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+main {
+    height: 100%;
+}
+body > main > div > div > div.col-md-5 {
+    padding-top: 15px;
+}
+
+h1 {
+    font-family: 'Candal', sans-serif;
+    color : #F8F7F8;
+    text-shadow: 1px 1px 2px #F8F7F8, 0 0 25px #13131a;
+    margin-bottom: 35px;
+}
+
+body > main > div > div > div.col-md-5 > p{
+    font-family: 'Cairo', sans-serif;
+    color : #F8F7F8;
+    font-size: 20px;
+}
+
+body > main > div > div > div.col-md-5 > button {
+    color: #0C0C0F;
+    background: #F4A436;
+    margin-top: 35px;
+    border-radius: 20px;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: none;
+}
+
+body > main > div > div > div.col-md-7 > img {
+    width: 700px;
+}
